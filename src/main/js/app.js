@@ -28,10 +28,10 @@ class EmployeeList extends React.Component{
 			<table>
 				<tbody>
 					<tr>
-						<th>First Name</th>
-						<th>Last Name</th>
-						<th>Description</th>
-					</tr>
+						<th>Nombres</th>
+						<th>Apellidos</th>
+						<th>Descripcion</th>
+					</tr>				
 					{employees}
 				</tbody>
 			</table>
